@@ -1,0 +1,15 @@
+---
+layout: astra 
+sidebar: sidebar 
+permalink: index.html 
+summary: Ces notes de version décrivent les nouvelles fonctionnalités, les limites et les problèmes connus de Cloud Volumes ONTAP 9.13.1. 
+---
+= Notes de mise à jour de Cloud Volumes ONTAP 9.13.1
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
