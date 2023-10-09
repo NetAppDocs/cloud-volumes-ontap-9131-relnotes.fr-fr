@@ -442,9 +442,7 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="9f71cb3204a7c80e435b6337aed1e728" category="cell">256 Tio</block>
   <block id="6c3b49ddb811c2d88edee86163680009" category="section-title">Limites des licences basées sur des nœuds</block>
   <block id="d017aa906544a3348ee35d75ebb10b72" category="paragraph">Les limites de disque suivantes s'appliquent aux systèmes Cloud Volumes ONTAP qui utilisent une licence basée sur les nœuds. Il s'agit du modèle de licence de génération précédente qui permet d'obtenir une licence Cloud Volumes ONTAP par nœud. Une licence basée sur les nœuds est toujours disponible pour les clients existants.</block>
-  <block id="52960fb5a2829740ddef9c61b6015d59" category="list-text">Si vous utilisez une licence basée sur les nœuds, vous pouvez acheter plusieurs licences basées sur des nœuds pour un système Cloud Volumes ONTAP BYOL pour allouer plus de 368 Tio de capacité.</block>
   <block id="275e3ef1a302e67e93bcf0f30d566f74" category="inline-link">Découvrez comment ajouter des licences système à Cloud Volumes ONTAP</block>
-  <block id="05c9b06fc32318d0689c553219a9d496" category="paragraph">Le nombre de licences que vous pouvez acheter pour un système à un seul nœud ou une paire HA est illimité. Notez que les limites de disques peuvent vous empêcher d'atteindre la limite de capacité en utilisant des disques seuls. Vous pouvez aller au-delà de la limite des disques de<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>.<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>.</block>
   <block id="fff4bb20e652c529e2e22e76e56ed9b5" category="section-title">Un seul nœud avec PAYGO Premium</block>
   <block id="40959eff270cd482e3813b16716a7ee3" category="cell">21 ^1^</block>
   <block id="c7867e37fc822edce03899d5be8cd610" category="cell">19 ^2^</block>
@@ -454,7 +452,6 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="cabc996760a00c42a2b15b388054d050" category="cell">Capacité système max. Avec plusieurs licences</block>
   <block id="bb49543449782c0f1b87b3ef8f49a6be" category="cell">*Disques seuls*</block>
   <block id="e3185eb0708df4883935910ebf26f8db" category="cell">*Disques + hiérarchisation des données*</block>
-  <block id="f94f9afeacfc431720c782db2e1d8809" category="cell">368 Tio x chaque licence</block>
   <block id="9dbb7f356b08de585f6ddbe523e4a8d8" category="section-title">Paires HAUTE DISPONIBILITÉ avec PAYGO Premium</block>
   <block id="156b98ab4634edb024f99442726e3e8d" category="cell">18 ^1^</block>
   <block id="dee0912fefbe003d7ae380d371a87fad" category="cell">16 ^2^</block>
@@ -705,4 +702,7 @@ Paires HAUTE DISPONIBILITÉ : 18 dans un nœud ^1^</block>
   <block id="2de7023f95c4ec26ccc423bd34c3771c" category="paragraph">Le correctif 9.13.1 P1 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud si vous disposez d'un connecteur exécutant la version 3.9.26 ou ultérieure. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
   <block id="a9380d77cd3c45a5f15f09b231323443" category="inline-link-macro">Consultez la liste des bugs corrigés dans le correctif P1</block>
   <block id="a381b8f37c04a51537dbe6d9053cfbbb" category="paragraph"><block ref="ccefc7f2c29a122e93c4f12a5703f3ec" category="inline-link-macro-rx"></block> (Identifiant du site du support NetApp requis).</block>
+  <block id="fd164e9cb2bc1ac5405cabfe451663f7" category="cell">2 Pio (plusieurs licences requises)</block>
+  <block id="2dbd9a217bce4c7ba4ef467f57d6875c" category="paragraph">Vous pouvez acheter plusieurs licences basées sur des nœuds pour un système Cloud Volumes ONTAP BYOL à un seul nœud ou par paire haute disponibilité afin d'allouer plus de 368 Tio de capacité, dans la limite de capacité système maximale testée et prise en charge de 2 Pio. Notez que les limites de disques peuvent vous empêcher d'atteindre la limite de capacité en utilisant des disques seuls. Vous pouvez aller au-delà de la limite des disques de<block ref="aea0958203307daa433f894622f3e640" category="inline-link-rx"></block>.<block ref="ca37ce4dde5616ef242d545490c7e6ee" category="inline-link-rx"></block>. Bien que Cloud Volumes ONTAP prenne en charge une capacité maximale de 2 Pio testée et prise en charge, le dépassement de la limite de 2 Pio entraîne une configuration système non prise en charge.</block>
+  <block id="de9d6749570efc87e63811b5947fc250" category="paragraph">Les régions de cloud secret AWS et de cloud secret prennent en charge l'achat de plusieurs licences basées sur des nœuds à partir de Cloud Volumes ONTAP 9.12.1.</block>
 </blocks>
