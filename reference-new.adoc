@@ -20,6 +20,16 @@ D'autres fonctionnalités et améliorations sont également introduites dans les
 
 
 
+== 9.13.1 P2 et 9.13.1 P3 (20 octobre 2023)
+
+Les correctifs 9.13.1 P2 et 9.13.1 P3 sont désormais disponibles pour Cloud Volumes ONTAP pour tous les fournisseurs cloud si vous disposez d'un connecteur exécutant la version 3.9.26 ou ultérieure. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
+
+* link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.13.1P3["Afficher la liste des bogues corrigés dans le correctif P3"^] (Identifiant du site du support NetApp requis).
+* link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.13.1P2["Consultez la liste des bogues corrigés dans le correctif P2"^] (Identifiant du site du support NetApp requis).
+
+
+
+
 == 9.13.1 P1 (3 octobre 2023)
 
 Le correctif 9.13.1 P1 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud si vous disposez d'un connecteur exécutant la version 3.9.26 ou ultérieure. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
