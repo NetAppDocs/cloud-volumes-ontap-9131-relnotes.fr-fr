@@ -1,6 +1,6 @@
 ---
 indexpage:
-  title: Notes de mise à jour de Cloud Volumes ONTAP 9.13.1
+  title: Notes de version de Cloud Volumes ONTAP 9.13.1
   summary: Ces notes de version décrivent les nouvelles fonctionnalités, les limites
     et les problèmes connus de Cloud Volumes ONTAP 9.13.
   keywords: cloud volumes ontap, licensing, security, release notes, storage, data
