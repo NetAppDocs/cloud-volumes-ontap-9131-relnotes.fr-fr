@@ -2,11 +2,11 @@
 indexpage:
   title: Notes de version de Cloud Volumes ONTAP 9.13.1
   summary: Ces notes de version décrivent les nouvelles fonctionnalités, les limites
-    et les problèmes connus de Cloud Volumes ONTAP 9.13.
+    et les problèmes connus de Cloud Volumes ONTAP 9.13.1
   keywords: cloud volumes ontap, licensing, security, release notes, storage, data
     protection, configuration, upgrade, encryption, cvo, 9131
   lead: Ces notes de version décrivent les nouvelles fonctionnalités, les limites
-    et les problèmes connus de Cloud Volumes ONTAP 9.13.
+    et les problèmes connus de Cloud Volumes ONTAP 9.13.1
   tiles:
   - title: Commencez
     links:
@@ -43,6 +43,6 @@ indexpage:
     - title: Communauté NetApp
       url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
     - title: Blog BlueXP
-      url: https://cloud.netapp.com/blog
+      url: https://bluexp.netapp.com/blog
     - title: Webinaires sur le cloud
-      url: https://cloud.netapp.com/events
+      url: https://bluexp.netapp.com/events
