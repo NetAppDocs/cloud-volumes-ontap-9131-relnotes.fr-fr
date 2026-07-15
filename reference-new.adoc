@@ -20,6 +20,7 @@ D'autres fonctionnalités et améliorations sont également introduites dans les
 
 
 
+[[9-13-1-p14-17-april-2025]]
 == 9.13.1 P14 (17 avril 2025)
 
 Le correctif 9.13.1 P14 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -28,6 +29,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p13-20-january-2025]]
 == 9.13.1 P13 (20 janvier 2025)
 
 Le correctif 9.13.1 P13 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -36,6 +38,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p12-25-november-2024]]
 == 9.13.1 P12 (25 novembre 2024)
 
 Le correctif 9.13.1 P12 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -44,6 +47,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p11-14-october-2024]]
 == 9.13.1 P11 (14 octobre 2024)
 
 Le correctif 9.13.1 P11 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -52,6 +56,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p10-8-august-2024]]
 == 9.13.1 P10 (8 août 2024)
 
 Le correctif 9.13.1 P10 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -60,6 +65,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p9-22-may-2024]]
 == 9.13.1 P9 (22 mai 2024)
 
 Le correctif 9.13.1 P9 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -68,6 +74,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p8-18-april-2024]]
 == 9.13.1 P8 (18 avril 2024)
 
 Le correctif 9.13.1 P8 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -76,6 +83,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p7-1-april-2024]]
 == 9.13.1 P7 (1er avril 2024)
 
 Le correctif 9.13.1 P7 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -84,6 +92,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p6-5-february-2024]]
 == 9.13.1 P6 (5 février 2024)
 
 Le correctif 9.13.1 P6 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -92,6 +101,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p4-8-december-2023]]
 == 9.13.1 P4 (8 décembre 2023)
 
 Le correctif 9.13.1 P4 est désormais disponible pour Cloud Volumes ONTAP et tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -100,6 +110,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-p2-and-9-13-1-p3-20-october-2023]]
 == 9.13.1 P2 et 9.13.1 P3 (20 octobre 2023)
 
 Les correctifs 9.13.1 P2 et 9.13.1 P3 sont désormais disponibles pour Cloud Volumes ONTAP pour tous les fournisseurs cloud si vous disposez d'un connecteur exécutant la version 3.9.26 ou ultérieure. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -110,6 +121,7 @@ Les correctifs 9.13.1 P2 et 9.13.1 P3 sont désormais disponibles pour Cloud Vol
 
 
 
+[[9-13-1-p1-3-october-2023]]
 == 9.13.1 P1 (3 octobre 2023)
 
 Le correctif 9.13.1 P1 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud si vous disposez d'un connecteur exécutant la version 3.9.26 ou ultérieure. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -118,12 +130,14 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-13-1-ga-26-july-2023]]
 == GA 9.13.1 (26 juillet 2023)
 
 La version General Availability de Cloud Volumes ONTAP 9.13.1 est désormais disponible dans AWS, Azure et Google Cloud.
 
 
 
+[[9-13-1-rc1-26-june-2023]]
 == 9.13.1 RC1 (26 juin 2023)
 
 La version Release candidate 1 de Cloud Volumes ONTAP 9.13.1 est désormais disponible dans AWS, Azure et Google Cloud.
@@ -147,12 +161,14 @@ Pour en savoir plus, consultez la documentation ONTAP : https://docs.netapp.com/
 
 
 
+[[upgrade-notes]]
 == Notes de mise à niveau
 
 Lisez ces notes pour en savoir plus sur la mise à niveau vers cette version.
 
 
 
+[[how-to-upgrade]]
 === Comment mettre à niveau
 
 Les mises à niveau de Cloud Volumes ONTAP doivent être effectuées depuis BlueXP. Vous ne devez pas mettre à niveau Cloud Volumes ONTAP à l'aide de System Manager ou de l'interface de ligne de commandes. Cela peut affecter la stabilité du système.
@@ -161,12 +177,14 @@ link:http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap
 
 
 
+[[supported-upgrade-path]]
 === Chemin de mise à niveau pris en charge
 
 Vous pouvez effectuer une mise à niveau vers Cloud Volumes ONTAP 9.13.1 à partir des versions 9.12.1 et 9.13.0. BlueXP vous invitera à mettre à niveau les systèmes Cloud Volumes ONTAP éligibles vers cette version.
 
 
 
+[[required-version-of-the-connector]]
 === Version requise du connecteur
 
 Le connecteur BlueXP doit exécuter la version 3.9.26 ou ultérieure pour déployer les nouveaux systèmes Cloud Volumes ONTAP 9.13.1 et mettre à niveau les systèmes existants vers la version 9.13.1.
@@ -176,6 +194,7 @@ TIP: Les mises à niveau automatiques du connecteur sont activées par défaut, 
 
 
 
+[[downtime]]
 === Ou non
 
 * La mise à niveau d'un système à un nœud unique permet de mettre le système hors ligne pendant 25 minutes au cours desquelles les E/S sont interrompues.
@@ -184,6 +203,7 @@ TIP: Les mises à niveau automatiques du connecteur sont activées par défaut, 
 
 
 
+[[c4-m4-and-r4-instances-no-longer-supported]]
 === les instances c4, m4 et r4 ne sont plus prises en charge
 
 Dans AWS, les types d'instances EC2 c4, m4 et r4 ne sont plus pris en charge par Cloud Volumes ONTAP. Si un système existant s'exécute sur un type d'instance c4, m4 ou r4, vous devez passer à un type d'instance dans la famille d'instances c5, m5 ou r5. Vous ne pouvez pas mettre à niveau vers cette version tant que vous n'avez pas modifié le type d'instance.
